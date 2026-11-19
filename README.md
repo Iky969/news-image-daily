@@ -4,6 +4,10 @@
 [![rank](https://make.fun/badge/news-image-20261119/Iky969/news-image-daily/rank.svg)](https://make.fun/bounty/news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/Iky969/news-image-daily/reward.svg)](https://make.fun/bounty/news-image-20261119)
 
+![19 November 2026 in one image](entry.png)
+
+## The picture
+
 A single 1024x1024 editorial illustration summing up the day's world news,
 composed as one collage:
 
